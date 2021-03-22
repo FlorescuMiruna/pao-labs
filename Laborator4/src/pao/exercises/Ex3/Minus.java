@@ -1,4 +1,4 @@
-package pao.Exercise.Ex3;
+package pao.exercises.Ex3;
 
 public interface Minus {
 

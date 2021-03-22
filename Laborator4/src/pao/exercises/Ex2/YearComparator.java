@@ -1,7 +1,5 @@
-package pao.Exercise.Ex2;
+package pao.exercises.Ex2;
 
-
-import pao.comparatori.Book;
 
 import java.util.Comparator;
 

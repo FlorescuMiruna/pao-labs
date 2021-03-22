@@ -1,4 +1,4 @@
-package pao.Exercise.Ex1;
+package pao.exercises.Ex1;
 import java.util.Random;
 
 public class RandomTask implements Task{

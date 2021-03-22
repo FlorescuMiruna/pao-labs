@@ -1,4 +1,4 @@
-package pao.Exercise.Ex1;
+package pao.exercises.Ex1;
 
 public interface Task {
 
