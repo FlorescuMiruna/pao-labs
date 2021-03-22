@@ -31,6 +31,28 @@ abstract class CandyBox{
         return origin;
     }
 
+    public boolean equals(Object obj){
+        if(this == obj){
+            return true;
+        }
+        if(obj == null){
+            return false;
+        }
+        if (getClass() != obj.getClass()){
+            return false;
+        }
+
+        CandyBox candyBox = (CandyBox) obj;
+
+        if(this.flavor != candyBox.flavor)
+            return false;
+
+        if(this.origin != candyBox.origin)
+            return false;
+
+        return true;
+    }
+
     @Override
     public String toString(){
         return null;

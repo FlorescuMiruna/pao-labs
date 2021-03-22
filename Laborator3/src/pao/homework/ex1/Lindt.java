@@ -23,6 +23,32 @@ class Lindt extends CandyBox{
         return Math.PI * radius * radius * height;
     }
 
+    public boolean equals(Object obj){
+        if(this == obj){
+            return true;
+        }
+        if(obj == null){
+            return false;
+        }
+        if (getClass() != obj.getClass()){
+            return false;
+        }
+
+        Lindt lindt = (Lindt) obj;
+
+        if( super.equals(lindt) == false) //Verific daca sunt la fel campurile din parinte
+            return false;
+
+        if(this.height != lindt.height)
+            return false;
+
+        if(this.radius != lindt.radius)
+            return false;
+
+
+        return true;
+    }
+
     public String toString(){
         return "Lindt ~ The origin: " + getOrigin() + "; The flavor: " + getFlavor() + "; The volume: " + getVolume();
     }

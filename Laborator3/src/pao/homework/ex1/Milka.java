@@ -18,6 +18,35 @@ class Milka extends CandyBox{
         this.height = height;
     }
 
+    public boolean equals(Object obj){
+        if(this == obj){
+            return true;
+        }
+        if(obj == null){
+            return false;
+        }
+        if (getClass() != obj.getClass()){
+            return false;
+        }
+
+        Milka milka = (Milka) obj;
+
+        if( super.equals(milka) == false) //Verific daca sunt la fel campurile din parinte
+            return false;
+
+        if(this.length != milka.length)
+            return false;
+
+        if(this.height != milka.height)
+            return false;
+
+        if(this.width != milka.width)
+            return false;
+
+
+        return true;
+    }
+
     @Override
     public double getVolume(){
         return length * width * height;
