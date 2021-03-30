@@ -1,0 +1,41 @@
+								***Bibliotecă***
+
+Tema aleasă: 2. bibliotecă (secțiuni, cărți,autori, cititori)
+
+Tipurile de obiecte folosite în cadrul implementării sunt:
+
+1.Book
+2.AudioBook
+3.PrintedBook
+4.Author
+5.Section
+6.Reader
+7.ChildReader
+8.AdultReader
+
+Clasele AudioBook și PrintedBook moștenesc din clasa părinte Book.
+Fiecare clasă Book va avea ca atribut un obiect de tip Author (reprezentând autorul cărții) și unul de tip Section (reprezentând secțiunea unde se încadrează cartea în bibliotecă).
+Clasele ChildReader si AdultReader moștenesc din clasa părinte Reader.
+Clasele de tip Reader au ca atribut un array de obiecte de tip Book, reprezentând cărțile pe care cititorul le-a împrumutat.
+
+
+
+Avem umătoarele acțiuni și interogări
+
+Implementate în clasa-serviciu pentru Book:
+
+- changeSection - Schimbă secțiunea la unde se găsește o carte în bibliotecă
+- getBooksByAuthor - Ne afișează cărțile din biblioetcă, scrise de un anumit autor
+- calculateDaysAvailable - Calculeză pentru o carte numărul de zile în care trebuie predată înapoi în bibliotecă
+- displayBookAge - Calculează și afișează vechimea fiecărei cărți
+
+Implementate în clasa-serviciu pentru Reader:
+
+- addBook - adaugă o carte în lista de cărți împrumutate de un anumit cititor
+- sortBooks - sortează (după anul apariției cărților) cărțile împrumutate de un cititor
+- removeBook - șterge ultima carte împrumutată de cititor
+- removeAllBooks - șterge toate cărțile împrumutate de cititor
+- printReader - îmi afișează date despre cititor și despre cărțile împrumutate de acesta
+- sortReadersAlphabetically - îmi sortează alfabetic cititorii
+- getReadersByAge - îmi afișează doar cititorii de o anumită vârstă
+
