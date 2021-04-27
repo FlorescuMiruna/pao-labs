@@ -1,0 +1,5 @@
+The readers from our library, alphabetically sorted:
+
+*** Name: Ana, age: 20 ***
+*** Name: Andrei, age: 20, email: andrei@gmail.com ***
+*** Name: Daniel, age: 10, parent phone number: 0737665509 ***

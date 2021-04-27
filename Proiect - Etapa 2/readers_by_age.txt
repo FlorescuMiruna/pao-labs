@@ -1,0 +1,4 @@
+The readers whose age is 20:
+
+*** Name: Ana, age: 20 ***
+*** Name: Andrei, age: 20, email: andrei@gmail.com ***
