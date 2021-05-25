@@ -1,0 +1,20 @@
+Id: 1
+Name: Emil Cioran
+Nationality: Romanian
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Id: 2
+Name: Alber Camus
+Nationality: French
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Id: 3
+Name: J. K. Rowling
+Nationality: British
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Id: 5
+Name: Yuval Noah Harari
+Nationality: Israeli
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Id: 6
+Name: George R.R. Martin
+Nationality: American
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

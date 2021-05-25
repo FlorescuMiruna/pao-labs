@@ -1,0 +1,19 @@
+*** Name: Andrei, age: 20, email: andrei@gmail.com ***
+
+Title: Lupul de stepa
+Author: name: Herman Hesse, nationality: German
+Publish year: 1927
+Section: Classics
+Number of hours: 7.0
+~~~~~~~~~~~~~
+Title: Mitul lui Sisif
+Author: name: Alber Camus, nationality: French
+Publish year: 1942
+Section: Classics
+Number of hours: 6.0
+~~~~~~~~~~~~~
+Title: Ciuma
+Author: name: Alber Camus, nationality: French
+Publish year: 1947
+Section: Classics
+~~~~~~~~~~~~~

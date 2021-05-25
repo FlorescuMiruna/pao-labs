@@ -1,0 +1,737 @@
+Nume_actiune, Timestamp
+changeSection,27-04-2021 21:07:15
+displayBookAge,27-04-2021 21:07:15
+calculateDaysAvailable,27-04-2021 21:07:15
+getBooksByAuthor,27-04-2021 21:07:15
+addBook,27-04-2021 21:07:15
+sortBooks,27-04-2021 21:07:15
+printReader,27-04-2021 21:07:15
+removeBook,27-04-2021 21:07:15
+printReader,27-04-2021 21:07:15
+removeAllBooks,27-04-2021 21:07:15
+printReader,27-04-2021 21:07:15
+getReadersByAge,27-04-2021 21:07:15
+sortReadersAlphabetically,27-04-2021 21:07:15
+changeSection,27-04-2021 21:17:42
+displayBookAge,27-04-2021 21:17:42
+calculateDaysAvailable,27-04-2021 21:17:42
+getBooksByAuthor,27-04-2021 21:17:42
+addBook,27-04-2021 21:17:42
+sortBooks,27-04-2021 21:17:42
+printReader,27-04-2021 21:17:42
+removeBook,27-04-2021 21:17:42
+changeSection,27-04-2021 21:30:51
+displayBookAge,27-04-2021 21:30:51
+calculateDaysAvailable,27-04-2021 21:30:51
+getBooksByAuthor,27-04-2021 21:30:51
+addBook,27-04-2021 21:30:51
+sortBooks,27-04-2021 21:30:51
+printReader,27-04-2021 21:30:51
+removeBook,27-04-2021 21:30:51
+printReader,27-04-2021 21:30:51
+removeAllBooks,27-04-2021 21:30:51
+printReader,27-04-2021 21:30:51
+getReadersByAge,27-04-2021 21:30:51
+sortReadersAlphabetically,27-04-2021 21:30:51
+changeSection,23-05-2021 22:52:39
+displayBookAge,23-05-2021 22:52:39
+calculateDaysAvailable,23-05-2021 22:52:39
+getBooksByAuthor,23-05-2021 22:52:39
+addBook,23-05-2021 22:52:39
+sortBooks,23-05-2021 22:52:39
+printReader,23-05-2021 22:52:39
+removeBook,23-05-2021 22:52:39
+printReader,23-05-2021 22:52:39
+removeAllBooks,23-05-2021 22:52:39
+printReader,23-05-2021 22:52:39
+getReadersByAge,23-05-2021 22:52:39
+sortReadersAlphabetically,23-05-2021 22:52:39
+changeSection,23-05-2021 23:05:34
+displayBookAge,23-05-2021 23:05:34
+calculateDaysAvailable,23-05-2021 23:05:34
+getBooksByAuthor,23-05-2021 23:05:34
+addBook,23-05-2021 23:05:34
+sortBooks,23-05-2021 23:05:34
+printReader,23-05-2021 23:05:34
+removeBook,23-05-2021 23:05:34
+printReader,23-05-2021 23:05:34
+removeAllBooks,23-05-2021 23:05:34
+printReader,23-05-2021 23:05:34
+getReadersByAge,23-05-2021 23:05:34
+sortReadersAlphabetically,23-05-2021 23:05:34
+changeSection,23-05-2021 23:06:32
+displayBookAge,23-05-2021 23:06:32
+calculateDaysAvailable,23-05-2021 23:06:32
+getBooksByAuthor,23-05-2021 23:06:32
+addBook,23-05-2021 23:06:32
+sortBooks,23-05-2021 23:06:32
+printReader,23-05-2021 23:06:32
+removeBook,23-05-2021 23:06:32
+printReader,23-05-2021 23:06:32
+removeAllBooks,23-05-2021 23:06:32
+printReader,23-05-2021 23:06:32
+getReadersByAge,23-05-2021 23:06:32
+sortReadersAlphabetically,23-05-2021 23:06:32
+changeSection,23-05-2021 23:08:16
+displayBookAge,23-05-2021 23:08:16
+calculateDaysAvailable,23-05-2021 23:08:16
+getBooksByAuthor,23-05-2021 23:08:16
+addBook,23-05-2021 23:08:16
+sortBooks,23-05-2021 23:08:16
+printReader,23-05-2021 23:08:16
+removeBook,23-05-2021 23:08:16
+printReader,23-05-2021 23:08:16
+removeAllBooks,23-05-2021 23:08:16
+printReader,23-05-2021 23:08:16
+getReadersByAge,23-05-2021 23:08:16
+sortReadersAlphabetically,23-05-2021 23:08:16
+changeSection,23-05-2021 23:10:16
+displayBookAge,23-05-2021 23:10:16
+calculateDaysAvailable,23-05-2021 23:10:16
+getBooksByAuthor,23-05-2021 23:10:16
+addBook,23-05-2021 23:10:16
+sortBooks,23-05-2021 23:10:16
+printReader,23-05-2021 23:10:16
+removeBook,23-05-2021 23:10:16
+printReader,23-05-2021 23:10:16
+removeAllBooks,23-05-2021 23:10:16
+printReader,23-05-2021 23:10:16
+getReadersByAge,23-05-2021 23:10:16
+sortReadersAlphabetically,23-05-2021 23:10:16
+changeSection,23-05-2021 23:17:21
+displayBookAge,23-05-2021 23:17:22
+calculateDaysAvailable,23-05-2021 23:17:22
+getBooksByAuthor,23-05-2021 23:17:22
+addBook,23-05-2021 23:17:22
+sortBooks,23-05-2021 23:17:22
+printReader,23-05-2021 23:17:22
+removeBook,23-05-2021 23:17:22
+printReader,23-05-2021 23:17:22
+removeAllBooks,23-05-2021 23:17:22
+printReader,23-05-2021 23:17:22
+getReadersByAge,23-05-2021 23:17:22
+sortReadersAlphabetically,23-05-2021 23:17:22
+changeSection,23-05-2021 23:30:16
+displayBookAge,23-05-2021 23:30:16
+calculateDaysAvailable,23-05-2021 23:30:16
+getBooksByAuthor,23-05-2021 23:30:16
+addBook,23-05-2021 23:30:16
+sortBooks,23-05-2021 23:30:16
+printReader,23-05-2021 23:30:16
+removeBook,23-05-2021 23:30:16
+printReader,23-05-2021 23:30:16
+removeAllBooks,23-05-2021 23:30:16
+printReader,23-05-2021 23:30:16
+getReadersByAge,23-05-2021 23:30:16
+sortReadersAlphabetically,23-05-2021 23:30:16
+changeSection,23-05-2021 23:33:30
+displayBookAge,23-05-2021 23:33:30
+calculateDaysAvailable,23-05-2021 23:33:30
+getBooksByAuthor,23-05-2021 23:33:30
+addBook,23-05-2021 23:33:30
+sortBooks,23-05-2021 23:33:30
+printReader,23-05-2021 23:33:30
+removeBook,23-05-2021 23:33:30
+printReader,23-05-2021 23:33:30
+removeAllBooks,23-05-2021 23:33:30
+printReader,23-05-2021 23:33:30
+getReadersByAge,23-05-2021 23:33:30
+sortReadersAlphabetically,23-05-2021 23:33:30
+changeSection,25-05-2021 17:46:28
+displayBookAge,25-05-2021 17:46:28
+calculateDaysAvailable,25-05-2021 17:46:29
+getBooksByAuthor,25-05-2021 17:46:29
+addBook,25-05-2021 17:46:29
+sortBooks,25-05-2021 17:46:29
+printReader,25-05-2021 17:46:29
+removeBook,25-05-2021 17:46:29
+printReader,25-05-2021 17:46:29
+removeAllBooks,25-05-2021 17:46:29
+printReader,25-05-2021 17:46:29
+getReadersByAge,25-05-2021 17:46:29
+sortReadersAlphabetically,25-05-2021 17:46:29
+changeSection,25-05-2021 18:26:19
+displayBookAge,25-05-2021 18:26:19
+calculateDaysAvailable,25-05-2021 18:26:19
+getBooksByAuthor,25-05-2021 18:26:19
+addBook,25-05-2021 18:26:19
+sortBooks,25-05-2021 18:26:19
+printReader,25-05-2021 18:26:19
+removeBook,25-05-2021 18:26:19
+printReader,25-05-2021 18:26:19
+removeAllBooks,25-05-2021 18:26:19
+printReader,25-05-2021 18:26:19
+getReadersByAge,25-05-2021 18:26:19
+sortReadersAlphabetically,25-05-2021 18:26:19
+changeSection,25-05-2021 18:28:04
+displayBookAge,25-05-2021 18:28:04
+calculateDaysAvailable,25-05-2021 18:28:04
+getBooksByAuthor,25-05-2021 18:28:04
+addBook,25-05-2021 18:28:04
+sortBooks,25-05-2021 18:28:04
+printReader,25-05-2021 18:28:04
+removeBook,25-05-2021 18:28:04
+printReader,25-05-2021 18:28:04
+removeAllBooks,25-05-2021 18:28:04
+printReader,25-05-2021 18:28:04
+getReadersByAge,25-05-2021 18:28:04
+sortReadersAlphabetically,25-05-2021 18:28:04
+changeSection,25-05-2021 18:28:07
+displayBookAge,25-05-2021 18:28:07
+calculateDaysAvailable,25-05-2021 18:28:07
+getBooksByAuthor,25-05-2021 18:28:07
+addBook,25-05-2021 18:28:07
+sortBooks,25-05-2021 18:28:07
+printReader,25-05-2021 18:28:07
+removeBook,25-05-2021 18:28:07
+printReader,25-05-2021 18:28:07
+removeAllBooks,25-05-2021 18:28:07
+printReader,25-05-2021 18:28:07
+getReadersByAge,25-05-2021 18:28:07
+sortReadersAlphabetically,25-05-2021 18:28:07
+changeSection,25-05-2021 18:28:41
+displayBookAge,25-05-2021 18:28:41
+calculateDaysAvailable,25-05-2021 18:28:41
+getBooksByAuthor,25-05-2021 18:28:41
+addBook,25-05-2021 18:28:41
+sortBooks,25-05-2021 18:28:41
+printReader,25-05-2021 18:28:41
+removeBook,25-05-2021 18:28:41
+printReader,25-05-2021 18:28:41
+removeAllBooks,25-05-2021 18:28:41
+printReader,25-05-2021 18:28:41
+getReadersByAge,25-05-2021 18:28:41
+sortReadersAlphabetically,25-05-2021 18:28:41
+changeSection,25-05-2021 18:28:59
+displayBookAge,25-05-2021 18:28:59
+calculateDaysAvailable,25-05-2021 18:28:59
+getBooksByAuthor,25-05-2021 18:28:59
+addBook,25-05-2021 18:28:59
+sortBooks,25-05-2021 18:28:59
+printReader,25-05-2021 18:28:59
+removeBook,25-05-2021 18:28:59
+printReader,25-05-2021 18:28:59
+removeAllBooks,25-05-2021 18:28:59
+printReader,25-05-2021 18:28:59
+getReadersByAge,25-05-2021 18:28:59
+sortReadersAlphabetically,25-05-2021 18:28:59
+changeSection,25-05-2021 18:29:08
+displayBookAge,25-05-2021 18:29:08
+calculateDaysAvailable,25-05-2021 18:29:08
+getBooksByAuthor,25-05-2021 18:29:08
+addBook,25-05-2021 18:29:08
+sortBooks,25-05-2021 18:29:08
+printReader,25-05-2021 18:29:08
+removeBook,25-05-2021 18:29:08
+printReader,25-05-2021 18:29:08
+removeAllBooks,25-05-2021 18:29:08
+printReader,25-05-2021 18:29:08
+getReadersByAge,25-05-2021 18:29:08
+sortReadersAlphabetically,25-05-2021 18:29:08
+changeSection,25-05-2021 18:29:19
+displayBookAge,25-05-2021 18:29:19
+calculateDaysAvailable,25-05-2021 18:29:19
+getBooksByAuthor,25-05-2021 18:29:19
+addBook,25-05-2021 18:29:19
+sortBooks,25-05-2021 18:29:19
+printReader,25-05-2021 18:29:19
+removeBook,25-05-2021 18:29:19
+printReader,25-05-2021 18:29:19
+removeAllBooks,25-05-2021 18:29:19
+printReader,25-05-2021 18:29:19
+getReadersByAge,25-05-2021 18:29:19
+sortReadersAlphabetically,25-05-2021 18:29:19
+changeSection,25-05-2021 18:29:42
+displayBookAge,25-05-2021 18:29:42
+calculateDaysAvailable,25-05-2021 18:29:42
+getBooksByAuthor,25-05-2021 18:29:42
+addBook,25-05-2021 18:29:42
+sortBooks,25-05-2021 18:29:42
+printReader,25-05-2021 18:29:42
+removeBook,25-05-2021 18:29:42
+printReader,25-05-2021 18:29:42
+removeAllBooks,25-05-2021 18:29:42
+printReader,25-05-2021 18:29:42
+getReadersByAge,25-05-2021 18:29:42
+sortReadersAlphabetically,25-05-2021 18:29:42
+changeSection,25-05-2021 18:30:00
+displayBookAge,25-05-2021 18:30:00
+calculateDaysAvailable,25-05-2021 18:30:00
+getBooksByAuthor,25-05-2021 18:30:00
+addBook,25-05-2021 18:30:00
+sortBooks,25-05-2021 18:30:00
+printReader,25-05-2021 18:30:00
+removeBook,25-05-2021 18:30:00
+printReader,25-05-2021 18:30:00
+removeAllBooks,25-05-2021 18:30:00
+printReader,25-05-2021 18:30:00
+getReadersByAge,25-05-2021 18:30:00
+sortReadersAlphabetically,25-05-2021 18:30:00
+changeSection,25-05-2021 18:30:10
+displayBookAge,25-05-2021 18:30:10
+calculateDaysAvailable,25-05-2021 18:30:10
+getBooksByAuthor,25-05-2021 18:30:10
+addBook,25-05-2021 18:30:10
+sortBooks,25-05-2021 18:30:10
+printReader,25-05-2021 18:30:10
+removeBook,25-05-2021 18:30:10
+printReader,25-05-2021 18:30:10
+removeAllBooks,25-05-2021 18:30:10
+printReader,25-05-2021 18:30:10
+getReadersByAge,25-05-2021 18:30:10
+sortReadersAlphabetically,25-05-2021 18:30:10
+changeSection,25-05-2021 18:30:23
+displayBookAge,25-05-2021 18:30:23
+calculateDaysAvailable,25-05-2021 18:30:23
+getBooksByAuthor,25-05-2021 18:30:23
+addBook,25-05-2021 18:30:23
+sortBooks,25-05-2021 18:30:23
+printReader,25-05-2021 18:30:23
+removeBook,25-05-2021 18:30:23
+printReader,25-05-2021 18:30:23
+removeAllBooks,25-05-2021 18:30:23
+printReader,25-05-2021 18:30:23
+getReadersByAge,25-05-2021 18:30:23
+sortReadersAlphabetically,25-05-2021 18:30:23
+changeSection,25-05-2021 18:30:34
+displayBookAge,25-05-2021 18:30:34
+calculateDaysAvailable,25-05-2021 18:30:34
+getBooksByAuthor,25-05-2021 18:30:34
+addBook,25-05-2021 18:30:34
+sortBooks,25-05-2021 18:30:34
+printReader,25-05-2021 18:30:34
+removeBook,25-05-2021 18:30:34
+printReader,25-05-2021 18:30:34
+removeAllBooks,25-05-2021 18:30:34
+printReader,25-05-2021 18:30:34
+getReadersByAge,25-05-2021 18:30:34
+sortReadersAlphabetically,25-05-2021 18:30:34
+changeSection,25-05-2021 18:31:07
+displayBookAge,25-05-2021 18:31:07
+calculateDaysAvailable,25-05-2021 18:31:07
+getBooksByAuthor,25-05-2021 18:31:07
+addBook,25-05-2021 18:31:07
+sortBooks,25-05-2021 18:31:07
+printReader,25-05-2021 18:31:07
+removeBook,25-05-2021 18:31:07
+printReader,25-05-2021 18:31:07
+removeAllBooks,25-05-2021 18:31:07
+printReader,25-05-2021 18:31:07
+getReadersByAge,25-05-2021 18:31:07
+sortReadersAlphabetically,25-05-2021 18:31:07
+changeSection,25-05-2021 18:33:48
+displayBookAge,25-05-2021 18:33:48
+calculateDaysAvailable,25-05-2021 18:33:48
+getBooksByAuthor,25-05-2021 18:33:48
+addBook,25-05-2021 18:33:48
+sortBooks,25-05-2021 18:33:48
+printReader,25-05-2021 18:33:48
+removeBook,25-05-2021 18:33:48
+printReader,25-05-2021 18:33:48
+removeAllBooks,25-05-2021 18:33:48
+printReader,25-05-2021 18:33:48
+getReadersByAge,25-05-2021 18:33:48
+sortReadersAlphabetically,25-05-2021 18:33:48
+Table SECTIONS dropped,25-05-2021 18:33:49
+changeSection,25-05-2021 18:38:23
+displayBookAge,25-05-2021 18:38:23
+calculateDaysAvailable,25-05-2021 18:38:23
+getBooksByAuthor,25-05-2021 18:38:23
+addBook,25-05-2021 18:38:23
+sortBooks,25-05-2021 18:38:23
+printReader,25-05-2021 18:38:23
+removeBook,25-05-2021 18:38:23
+printReader,25-05-2021 18:38:23
+removeAllBooks,25-05-2021 18:38:23
+printReader,25-05-2021 18:38:23
+getReadersByAge,25-05-2021 18:38:23
+sortReadersAlphabetically,25-05-2021 18:38:23
+Table SECTIONS dropped,25-05-2021 18:38:23
+Table SECTION created,25-05-2021 18:38:24
+Row inserted in SECTIONS ,25-05-2021 18:38:24
+Section displayed,25-05-2021 18:38:24
+Row inserted in SECTIONS ,25-05-2021 18:38:24
+Section displayed,25-05-2021 18:38:24
+Row updated in SECTIONS ,25-05-2021 18:38:24
+Section displayed,25-05-2021 18:38:24
+Row inserted in SECTIONS ,25-05-2021 18:38:24
+Row inserted in SECTIONS ,25-05-2021 18:38:24
+Row inserted in SECTIONS ,25-05-2021 18:38:24
+Row deleted in SECTIONS ,25-05-2021 18:38:24
+All sections displayed,25-05-2021 18:38:24
+changeSection,25-05-2021 18:42:27
+displayBookAge,25-05-2021 18:42:27
+calculateDaysAvailable,25-05-2021 18:42:27
+getBooksByAuthor,25-05-2021 18:42:27
+addBook,25-05-2021 18:42:27
+sortBooks,25-05-2021 18:42:27
+printReader,25-05-2021 18:42:27
+removeBook,25-05-2021 18:42:27
+printReader,25-05-2021 18:42:27
+removeAllBooks,25-05-2021 18:42:27
+printReader,25-05-2021 18:42:27
+getReadersByAge,25-05-2021 18:42:27
+sortReadersAlphabetically,25-05-2021 18:42:27
+Table AUTHORS dropped,25-05-2021 18:42:27
+Table SECTIONS dropped,25-05-2021 18:42:27
+Table AUTHORS created,25-05-2021 18:42:27
+Row inserted in AUTHORS ,25-05-2021 18:42:27
+Author displayed,25-05-2021 18:42:27
+Row updated in AUTHORS ,25-05-2021 18:42:27
+Author displayed,25-05-2021 18:42:27
+Row deleted in AUTHORS ,25-05-2021 18:42:27
+All authors displayed,25-05-2021 18:42:27
+Table SECTIONS created,25-05-2021 18:42:27
+Row inserted in SECTIONS ,25-05-2021 18:42:27
+Section displayed,25-05-2021 18:42:27
+Row inserted in SECTIONS ,25-05-2021 18:42:27
+Section displayed,25-05-2021 18:42:27
+Row updated in SECTIONS ,25-05-2021 18:42:27
+Section displayed,25-05-2021 18:42:27
+Row inserted in SECTIONS ,25-05-2021 18:42:27
+Row inserted in SECTIONS ,25-05-2021 18:42:27
+Row inserted in SECTIONS ,25-05-2021 18:42:27
+Row deleted in SECTIONS ,25-05-2021 18:42:27
+All sections displayed,25-05-2021 18:42:27
+changeSection,25-05-2021 18:43:12
+displayBookAge,25-05-2021 18:43:12
+calculateDaysAvailable,25-05-2021 18:43:12
+getBooksByAuthor,25-05-2021 18:43:12
+addBook,25-05-2021 18:43:12
+sortBooks,25-05-2021 18:43:12
+printReader,25-05-2021 18:43:12
+removeBook,25-05-2021 18:43:12
+printReader,25-05-2021 18:43:12
+removeAllBooks,25-05-2021 18:43:12
+printReader,25-05-2021 18:43:12
+getReadersByAge,25-05-2021 18:43:12
+sortReadersAlphabetically,25-05-2021 18:43:12
+Table AUTHORS dropped,25-05-2021 18:43:12
+Table SECTIONS dropped,25-05-2021 18:43:12
+Table AUTHORS created,25-05-2021 18:43:12
+Row inserted in AUTHORS ,25-05-2021 18:43:12
+Author displayed,25-05-2021 18:43:12
+Row updated in AUTHORS ,25-05-2021 18:43:12
+Author displayed,25-05-2021 18:43:12
+Inserted authors from CSV file,25-05-2021 18:43:12
+Inserted authors from CSV file,25-05-2021 18:43:12
+Inserted authors from CSV file,25-05-2021 18:43:12
+Inserted authors from CSV file,25-05-2021 18:43:12
+Inserted authors from CSV file,25-05-2021 18:43:12
+Row deleted in AUTHORS ,25-05-2021 18:43:12
+All authors displayed,25-05-2021 18:43:12
+Table SECTIONS created,25-05-2021 18:43:12
+Row inserted in SECTIONS ,25-05-2021 18:43:12
+Section displayed,25-05-2021 18:43:12
+Row inserted in SECTIONS ,25-05-2021 18:43:12
+Section displayed,25-05-2021 18:43:12
+Row updated in SECTIONS ,25-05-2021 18:43:12
+Section displayed,25-05-2021 18:43:12
+Row inserted in SECTIONS ,25-05-2021 18:43:12
+Row inserted in SECTIONS ,25-05-2021 18:43:12
+Row inserted in SECTIONS ,25-05-2021 18:43:12
+Row deleted in SECTIONS ,25-05-2021 18:43:12
+All sections displayed,25-05-2021 18:43:12
+changeSection,25-05-2021 18:43:58
+displayBookAge,25-05-2021 18:43:58
+calculateDaysAvailable,25-05-2021 18:43:58
+getBooksByAuthor,25-05-2021 18:43:58
+addBook,25-05-2021 18:43:58
+sortBooks,25-05-2021 18:43:58
+printReader,25-05-2021 18:43:58
+removeBook,25-05-2021 18:43:58
+printReader,25-05-2021 18:43:58
+removeAllBooks,25-05-2021 18:43:58
+printReader,25-05-2021 18:43:58
+getReadersByAge,25-05-2021 18:43:58
+sortReadersAlphabetically,25-05-2021 18:43:58
+Table AUTHORS dropped,25-05-2021 18:43:58
+Table SECTIONS dropped,25-05-2021 18:43:58
+Table AUTHORS created,25-05-2021 18:43:58
+Row inserted in AUTHORS ,25-05-2021 18:43:58
+Author displayed,25-05-2021 18:43:58
+Row updated in AUTHORS ,25-05-2021 18:43:58
+Author displayed,25-05-2021 18:43:58
+Inserted authors from CSV file,25-05-2021 18:43:58
+Row deleted in AUTHORS ,25-05-2021 18:43:58
+All authors displayed,25-05-2021 18:43:58
+Table SECTIONS created,25-05-2021 18:43:58
+Row inserted in SECTIONS ,25-05-2021 18:43:58
+Section displayed,25-05-2021 18:43:58
+Row inserted in SECTIONS ,25-05-2021 18:43:58
+Section displayed,25-05-2021 18:43:58
+Row updated in SECTIONS ,25-05-2021 18:43:58
+Section displayed,25-05-2021 18:43:58
+Row inserted in SECTIONS ,25-05-2021 18:43:58
+Row inserted in SECTIONS ,25-05-2021 18:43:58
+Row inserted in SECTIONS ,25-05-2021 18:43:58
+Row deleted in SECTIONS ,25-05-2021 18:43:58
+All sections displayed,25-05-2021 18:43:58
+changeSection,25-05-2021 18:47:23
+displayBookAge,25-05-2021 18:47:23
+calculateDaysAvailable,25-05-2021 18:47:23
+getBooksByAuthor,25-05-2021 18:47:23
+addBook,25-05-2021 18:47:23
+sortBooks,25-05-2021 18:47:23
+printReader,25-05-2021 18:47:23
+removeBook,25-05-2021 18:47:23
+printReader,25-05-2021 18:47:23
+removeAllBooks,25-05-2021 18:47:23
+printReader,25-05-2021 18:47:23
+getReadersByAge,25-05-2021 18:47:23
+sortReadersAlphabetically,25-05-2021 18:47:23
+Table READERS dropped,25-05-2021 18:47:23
+Table AUTHORS dropped,25-05-2021 18:47:23
+Table SECTIONS dropped,25-05-2021 18:47:23
+Table AUTHORS created,25-05-2021 18:47:23
+Row inserted in AUTHORS ,25-05-2021 18:47:23
+Author displayed,25-05-2021 18:47:23
+Row updated in AUTHORS ,25-05-2021 18:47:23
+Author displayed,25-05-2021 18:47:23
+Inserted authors from CSV file,25-05-2021 18:47:23
+Row deleted in AUTHORS ,25-05-2021 18:47:23
+All authors displayed,25-05-2021 18:47:23
+Table SECTIONS created,25-05-2021 18:47:23
+Row inserted in SECTIONS ,25-05-2021 18:47:23
+Section displayed,25-05-2021 18:47:23
+Row inserted in SECTIONS ,25-05-2021 18:47:23
+Section displayed,25-05-2021 18:47:23
+Row updated in SECTIONS ,25-05-2021 18:47:23
+Section displayed,25-05-2021 18:47:23
+Row inserted in SECTIONS ,25-05-2021 18:47:23
+Row inserted in SECTIONS ,25-05-2021 18:47:23
+Row inserted in SECTIONS ,25-05-2021 18:47:23
+Row deleted in SECTIONS ,25-05-2021 18:47:23
+All sections displayed,25-05-2021 18:47:23
+Table READERS created,25-05-2021 18:47:23
+Row inserted in READERS ,25-05-2021 18:47:23
+Reader displayed,25-05-2021 18:47:23
+Row updated in READERS ,25-05-2021 18:47:23
+Reader displayed,25-05-2021 18:47:23
+Row inserted in READERS ,25-05-2021 18:47:23
+Row deleted in READERS ,25-05-2021 18:47:23
+All readers displayed,25-05-2021 18:47:23
+changeSection,25-05-2021 18:51:56
+displayBookAge,25-05-2021 18:51:56
+calculateDaysAvailable,25-05-2021 18:51:56
+getBooksByAuthor,25-05-2021 18:51:56
+addBook,25-05-2021 18:51:56
+sortBooks,25-05-2021 18:51:56
+printReader,25-05-2021 18:51:56
+removeBook,25-05-2021 18:51:56
+printReader,25-05-2021 18:51:56
+removeAllBooks,25-05-2021 18:51:56
+printReader,25-05-2021 18:51:56
+getReadersByAge,25-05-2021 18:51:56
+sortReadersAlphabetically,25-05-2021 18:51:56
+Table READERS dropped,25-05-2021 18:51:56
+Table BOOKS dropped,25-05-2021 18:51:56
+Table AUTHORS dropped,25-05-2021 18:51:56
+Table SECTIONS dropped,25-05-2021 18:51:56
+ ** AUTHORS **,25-05-2021 18:51:56
+Row inserted in AUTHORS ,25-05-2021 18:51:56
+Author displayed,25-05-2021 18:51:57
+Row updated in AUTHORS ,25-05-2021 18:51:57
+Author displayed,25-05-2021 18:51:57
+Inserted authors from CSV file,25-05-2021 18:51:57
+Row deleted in AUTHORS ,25-05-2021 18:51:57
+All authors displayed,25-05-2021 18:51:57
+Table SECTIONS created,25-05-2021 18:51:57
+Row inserted in SECTIONS ,25-05-2021 18:51:57
+Section displayed,25-05-2021 18:51:57
+Row inserted in SECTIONS ,25-05-2021 18:51:57
+Section displayed,25-05-2021 18:51:57
+Row updated in SECTIONS ,25-05-2021 18:51:57
+Section displayed,25-05-2021 18:51:57
+Row inserted in SECTIONS ,25-05-2021 18:51:57
+Row inserted in SECTIONS ,25-05-2021 18:51:57
+Row inserted in SECTIONS ,25-05-2021 18:51:57
+Row deleted in SECTIONS ,25-05-2021 18:51:57
+All sections displayed,25-05-2021 18:51:57
+Table BOOKS created,25-05-2021 18:51:57
+Row inserted in BOOKS ,25-05-2021 18:51:57
+Row inserted in BOOKS ,25-05-2021 18:51:57
+Book displayed,25-05-2021 18:51:57
+Row updated in BOOKS ,25-05-2021 18:51:57
+Book displayed,25-05-2021 18:51:57
+Row deleted in BOOKS ,25-05-2021 18:51:57
+All books displayed,25-05-2021 18:51:57
+Row inserted in BOOKS ,25-05-2021 18:51:57
+Row inserted in BOOKS ,25-05-2021 18:51:57
+All books displayed,25-05-2021 18:51:57
+ ** Table READERS **,25-05-2021 18:51:57
+Row inserted in READERS ,25-05-2021 18:51:57
+Reader displayed,25-05-2021 18:51:57
+Row updated in READERS ,25-05-2021 18:51:57
+Reader displayed,25-05-2021 18:51:57
+Row inserted in READERS ,25-05-2021 18:51:57
+Row deleted in READERS ,25-05-2021 18:51:57
+All readers displayed,25-05-2021 18:51:57
+changeSection,25-05-2021 18:53:26
+displayBookAge,25-05-2021 18:53:26
+calculateDaysAvailable,25-05-2021 18:53:26
+getBooksByAuthor,25-05-2021 18:53:26
+addBook,25-05-2021 18:53:26
+sortBooks,25-05-2021 18:53:26
+printReader,25-05-2021 18:53:26
+removeBook,25-05-2021 18:53:26
+printReader,25-05-2021 18:53:26
+removeAllBooks,25-05-2021 18:53:26
+printReader,25-05-2021 18:53:26
+getReadersByAge,25-05-2021 18:53:26
+sortReadersAlphabetically,25-05-2021 18:53:26
+Table READERS dropped,25-05-2021 18:53:26
+Table BOOKS dropped,25-05-2021 18:53:26
+Table AUTHORS dropped,25-05-2021 18:53:26
+Table SECTIONS dropped,25-05-2021 18:53:26
+ ** AUTHORS **,25-05-2021 18:53:26
+Row inserted in AUTHORS ,25-05-2021 18:53:26
+Author displayed,25-05-2021 18:53:26
+Row updated in AUTHORS ,25-05-2021 18:53:26
+Author displayed,25-05-2021 18:53:26
+Inserted authors from CSV file,25-05-2021 18:53:26
+Row deleted in AUTHORS ,25-05-2021 18:53:26
+All authors displayed,25-05-2021 18:53:26
+Table SECTIONS created,25-05-2021 18:53:26
+Row inserted in SECTIONS ,25-05-2021 18:53:26
+Section displayed,25-05-2021 18:53:26
+Row inserted in SECTIONS ,25-05-2021 18:53:26
+Section displayed,25-05-2021 18:53:26
+Row updated in SECTIONS ,25-05-2021 18:53:26
+Section displayed,25-05-2021 18:53:26
+Row inserted in SECTIONS ,25-05-2021 18:53:26
+Row inserted in SECTIONS ,25-05-2021 18:53:26
+Row inserted in SECTIONS ,25-05-2021 18:53:26
+Row deleted in SECTIONS ,25-05-2021 18:53:26
+All sections displayed,25-05-2021 18:53:26
+Table BOOKS created,25-05-2021 18:53:26
+Row inserted in BOOKS ,25-05-2021 18:53:26
+Row inserted in BOOKS ,25-05-2021 18:53:26
+Book displayed,25-05-2021 18:53:26
+Row updated in BOOKS ,25-05-2021 18:53:26
+Book displayed,25-05-2021 18:53:26
+Row deleted in BOOKS ,25-05-2021 18:53:26
+All books displayed,25-05-2021 18:53:26
+Row inserted in BOOKS ,25-05-2021 18:53:26
+Row inserted in BOOKS ,25-05-2021 18:53:26
+All books displayed,25-05-2021 18:53:26
+Table READERS created,25-05-2021 18:53:26
+Row inserted in READERS ,25-05-2021 18:53:26
+Reader displayed,25-05-2021 18:53:26
+Row updated in READERS ,25-05-2021 18:53:26
+Reader displayed,25-05-2021 18:53:26
+Row inserted in READERS ,25-05-2021 18:53:26
+Row deleted in READERS ,25-05-2021 18:53:26
+All readers displayed,25-05-2021 18:53:26
+changeSection,25-05-2021 18:54:00
+displayBookAge,25-05-2021 18:54:01
+calculateDaysAvailable,25-05-2021 18:54:01
+getBooksByAuthor,25-05-2021 18:54:01
+addBook,25-05-2021 18:54:01
+sortBooks,25-05-2021 18:54:01
+printReader,25-05-2021 18:54:01
+removeBook,25-05-2021 18:54:01
+printReader,25-05-2021 18:54:01
+removeAllBooks,25-05-2021 18:54:01
+printReader,25-05-2021 18:54:01
+getReadersByAge,25-05-2021 18:54:01
+sortReadersAlphabetically,25-05-2021 18:54:01
+Table READERS dropped,25-05-2021 18:54:01
+Table BOOKS dropped,25-05-2021 18:54:01
+Table AUTHORS dropped,25-05-2021 18:54:01
+Table SECTIONS dropped,25-05-2021 18:54:01
+ ** AUTHORS **,25-05-2021 18:54:01
+Row inserted in AUTHORS ,25-05-2021 18:54:01
+Author displayed,25-05-2021 18:54:01
+Row updated in AUTHORS ,25-05-2021 18:54:01
+Author displayed,25-05-2021 18:54:01
+Inserted authors from CSV file,25-05-2021 18:54:01
+Row deleted in AUTHORS ,25-05-2021 18:54:01
+All authors displayed,25-05-2021 18:54:01
+Table SECTIONS created,25-05-2021 18:54:01
+Row inserted in SECTIONS ,25-05-2021 18:54:01
+Section displayed,25-05-2021 18:54:01
+Row inserted in SECTIONS ,25-05-2021 18:54:01
+Section displayed,25-05-2021 18:54:01
+Row updated in SECTIONS ,25-05-2021 18:54:01
+Section displayed,25-05-2021 18:54:01
+Row inserted in SECTIONS ,25-05-2021 18:54:01
+Row inserted in SECTIONS ,25-05-2021 18:54:01
+Row inserted in SECTIONS ,25-05-2021 18:54:01
+Row deleted in SECTIONS ,25-05-2021 18:54:01
+All sections displayed,25-05-2021 18:54:01
+Table BOOKS created,25-05-2021 18:54:01
+Row inserted in BOOKS ,25-05-2021 18:54:01
+Row inserted in BOOKS ,25-05-2021 18:54:01
+Book displayed,25-05-2021 18:54:01
+Row updated in BOOKS ,25-05-2021 18:54:01
+Book displayed,25-05-2021 18:54:01
+Row deleted in BOOKS ,25-05-2021 18:54:01
+All books displayed,25-05-2021 18:54:01
+Row inserted in BOOKS ,25-05-2021 18:54:01
+Row inserted in BOOKS ,25-05-2021 18:54:01
+All books displayed,25-05-2021 18:54:01
+Table READERS created,25-05-2021 18:54:01
+Row inserted in READERS ,25-05-2021 18:54:01
+Reader displayed,25-05-2021 18:54:01
+Row updated in READERS ,25-05-2021 18:54:01
+Reader displayed,25-05-2021 18:54:01
+Row inserted in READERS ,25-05-2021 18:54:01
+Row deleted in READERS ,25-05-2021 18:54:01
+All readers displayed,25-05-2021 18:54:01
+changeSection,25-05-2021 18:54:27
+displayBookAge,25-05-2021 18:54:27
+calculateDaysAvailable,25-05-2021 18:54:27
+getBooksByAuthor,25-05-2021 18:54:27
+addBook,25-05-2021 18:54:27
+sortBooks,25-05-2021 18:54:27
+printReader,25-05-2021 18:54:27
+removeBook,25-05-2021 18:54:27
+printReader,25-05-2021 18:54:27
+removeAllBooks,25-05-2021 18:54:27
+printReader,25-05-2021 18:54:27
+getReadersByAge,25-05-2021 18:54:27
+sortReadersAlphabetically,25-05-2021 18:54:27
+Table READERS dropped,25-05-2021 18:54:27
+Table BOOKS dropped,25-05-2021 18:54:27
+Table AUTHORS dropped,25-05-2021 18:54:27
+Table SECTIONS dropped,25-05-2021 18:54:27
+ ** AUTHORS **,25-05-2021 18:54:27
+Row inserted in AUTHORS ,25-05-2021 18:54:27
+Author displayed,25-05-2021 18:54:28
+Row updated in AUTHORS ,25-05-2021 18:54:28
+Author displayed,25-05-2021 18:54:28
+Inserted authors from CSV file,25-05-2021 18:54:28
+Row deleted in AUTHORS ,25-05-2021 18:54:28
+All authors displayed,25-05-2021 18:54:28
+Table SECTIONS created,25-05-2021 18:54:28
+Row inserted in SECTIONS ,25-05-2021 18:54:28
+Section displayed,25-05-2021 18:54:28
+Row inserted in SECTIONS ,25-05-2021 18:54:28
+Section displayed,25-05-2021 18:54:28
+Row updated in SECTIONS ,25-05-2021 18:54:28
+Section displayed,25-05-2021 18:54:28
+Row inserted in SECTIONS ,25-05-2021 18:54:28
+Row inserted in SECTIONS ,25-05-2021 18:54:28
+Row inserted in SECTIONS ,25-05-2021 18:54:28
+Row deleted in SECTIONS ,25-05-2021 18:54:28
+All sections displayed,25-05-2021 18:54:28
+Table BOOKS created,25-05-2021 18:54:28
+Row inserted in BOOKS ,25-05-2021 18:54:28
+Row inserted in BOOKS ,25-05-2021 18:54:28
+Book displayed,25-05-2021 18:54:28
+Row updated in BOOKS ,25-05-2021 18:54:28
+Book displayed,25-05-2021 18:54:28
+Row deleted in BOOKS ,25-05-2021 18:54:28
+All books displayed,25-05-2021 18:54:28
+Row inserted in BOOKS ,25-05-2021 18:54:28
+Row inserted in BOOKS ,25-05-2021 18:54:28
+All books displayed,25-05-2021 18:54:28
+Table READERS created,25-05-2021 18:54:28
+Row inserted in READERS ,25-05-2021 18:54:28
+Reader displayed,25-05-2021 18:54:28
+Row updated in READERS ,25-05-2021 18:54:28
+Reader displayed,25-05-2021 18:54:28
+Row inserted in READERS ,25-05-2021 18:54:28
+Row deleted in READERS ,25-05-2021 18:54:28
+All readers displayed,25-05-2021 18:54:28

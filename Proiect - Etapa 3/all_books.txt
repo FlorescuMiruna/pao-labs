@@ -1,0 +1,18 @@
+Id: 1
+Year: 1947
+Title: Ciuma
+Section: Philosophy
+Author: Alber Camus
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Id: 3
+Year: 1996
+Title: Urzeala tronurilor
+Section: Fantasy
+Author: George R.R. Martin
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Id: 4
+Year: 2018
+Title: Foc si sange
+Section: Fantasy
+Author: George R.R. Martin
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
